@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/9/14 10:08:23。
+     1>项目“C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\ManipulationSample.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W4 /WX /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\\" /Fd"C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ComTouchDriver.cpp CoreObject.cpp D2DDriver.cpp DrawingObject.cpp ManipulationEventsink.cpp ManipulationSample.cpp
+         ComTouchDriver.cpp
+         CoreObject.cpp
+         D2DDriver.cpp
+         DrawingObject.cpp
+         ManipulationEventsink.cpp
+         ManipulationSample.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\ManipulationSample.res" ManipulationSample.rc 
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\Release\ManipulationSample.exe" /INCREMENTAL:NO /NOLOGO d2d1.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\Release\ManipulationSample.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /IMPLIB:"C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\Release\ManipulationSample.lib" /MACHINE:X86 /SAFESEH /NXCOMPAT C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\ManipulationSample.res
+         C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\ComTouchDriver.obj
+         C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\CoreObject.obj
+         C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\D2DDriver.obj
+         C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\DrawingObject.obj
+         C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\ManipulationEventsink.obj
+         C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\TempRelease\ManipulationSample.obj
+         正在生成代码
+         已完成代码的生成
+         ManipulationSample.vcxproj -> C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\output\Release\ManipulationSample.exe
+     1>已完成生成项目“C:\Users\jhonconal\Desktop\Touch\MTManipulationInertia\cpp\ManipulationSample.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.63
